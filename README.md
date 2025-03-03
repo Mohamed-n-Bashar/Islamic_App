@@ -1,13 +1,22 @@
-# Islamic App
+# 📱 Islamic App | Comprehensive Islamic Guide  
 
-An Islamic application designed to provide a comprehensive set of features for users, including Quran, prayer times, adhkar, hadith, qibla direction, tasbih, and adhkar reminders. This project was developed as part of my graduation project at the **Digital Egypt Pioneers Initiative (DEPI)**.
+An Islamic application designed to provide a rich set of features for users, covering essential aspects of daily worship and spiritual guidance.  
+This project was developed as part of my **graduation project** at the **Digital Egypt Pioneers Initiative (DEPI)** with my team. 
 
-## Features
+![Islamic App ](https://github.com/user-attachments/assets/e1f8d475-eb9c-4999-863b-ecfd7952b03a)
 
-- **Quran**: Access the complete Quran text with user-friendly navigation.
-- **Prayer Times**: Accurate prayer times based on the user's location.
-- **Adhkar**: Morning and evening adhkar with beautiful design and easy navigation.
-- **Hadith**: A collection of authentic Hadiths for spiritual guidance.
-- **Qibla Direction**: A compass to determine the direction of Qibla.
-- **Tasbih**: A digital counter for tasbih and dhikr.
-- **Adhkar Reminders**: Notifications to remind users to recite adhkar.
+## 🌟 Features  
+✅ **Quran** – Complete Quran text with smooth navigation  
+✅ **Prayer Times** – Accurate prayer times based on location  
+✅ **Adhkar** – Morning & evening adhkar with a beautiful interface  
+✅ **Hadith** – A collection of authentic Hadiths for guidance  
+✅ **Qibla Direction** – A compass to determine Qibla direction  
+✅ **Tasbih** – Digital counter for tasbih and dhikr  
+✅ **Adhkar Reminders** – Notifications to remind users to recite adhkar  
+
+## 🛠️ Tech Stack  
+- **Flutter & Dart** for app development  
+- **REST API** for prayer times & Qibla direction  
+- **Local database** for storing Quran and Hadith data  
+
+📌 *Feel free to share any feedback or suggestions!* 😊  
